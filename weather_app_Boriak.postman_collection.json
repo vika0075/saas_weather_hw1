@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "557bb002-c81c-4d81-ae81-2654d00bae74",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45162660",
+		"_collection_link": "https://viktoria-7010169.postman.co/workspace/Viktoria's-Workspace~ec2153d3-8b04-467f-8d7f-9662dec19ef7/collection/45162660-557bb002-c81c-4d81-ae81-2654d00bae74?action=share&source=collection_link&creator=45162660"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
